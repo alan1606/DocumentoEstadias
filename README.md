@@ -1,2 +1,2 @@
 # DocumentoEstadias
-Documento de estadías para hacer trampa
+Documento de estadías para llevar un control de los cambios
